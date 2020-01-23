@@ -1,0 +1,15 @@
+{
+  "monto": 0.0,
+  "cliente": {
+    "correo": "darwin06@gmail.com",
+    "nombre": "Darwin",
+    "apellido": "Simba",
+    "cedula": "0567283421"
+  },
+  "casa": {
+    "numero": "c-002",
+    "descripcion": "Casa de 2 plantas: chimenea, jardín,, cuarto de lavandería, sala, comedor, cocina",
+    "area": 220,
+    "parqueadero": "No"
+  }
+}
